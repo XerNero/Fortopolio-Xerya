@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg[data-slot="icon"],
+#icon {
+    width: 28px;
+    height: 28px;
+}
